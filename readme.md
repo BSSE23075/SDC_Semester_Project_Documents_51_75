@@ -19,7 +19,6 @@ A modernized, containerized web application designed to streamline student recor
 - [Prerequisites](#-prerequisites)
 - [Installation & Local Setup](#-installation--local-setup)
 - [Deployment (GitOps)](#-deployment-gitops)
-- [Screenshots](#-screenshots)
 - [Team](#-team)
 
 ---
